@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-dateintitle",
-  "version": "0.4.2",
+  "version": "1.0",
   "description": "A starter kit for quickly creating NodeBB plugins",
   "main": "library.js",
   "repository": {
@@ -26,8 +26,8 @@
     ]
   },
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "Floyd Remmerswaal",
+    "email": "floydremmerswaal@gmail.com"
   },
   "license": "MIT",
   "bugs": {

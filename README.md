@@ -1,17 +1,4 @@
 # dateintitle Plugin for NodeBB
 
-A starter kit for quickly creating NodeBB plugins. Comes with a pre-setup LESS file, server side JS script with an `action:app.load` hook, and a client-side script. Most plugins need at least one of the above, so this ought to save you some time. For a full list of hooks have a look at our [wiki page](https://github.com/NodeBB/NodeBB/wiki/Hooks), and for more information about creating plugins please visit our [documentation portal](https://docs.nodebb.org/).
-
-Fork this or copy it, and using your favourite text editor find and replace all instances of `nodebb-plugin-dateintitle` with `nodebb-plugin-your-plugins-name`. Change the author's name in the LICENSE and package.json files.
-
-## Hello World
-
-Really simple, just edit `static/lib/main.js` and paste in `console.log('hello world');`, and that's it!
-
-## Installation
-
-    npm install nodebb-plugin-dateintitle
-
-## Screenshots
-
-Don't forget to add screenshots!
+A plugin to be used in combination with nodebb-plugin-calendar. This plugin puts the date of an event in the title of the topic the event is in. 
+Built using the quickstart template for nodebb plugins.
