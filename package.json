@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-dateintitle",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Puts the date and location in the title of an event (to be used with the calender plugin)",
   "main": "library.js",
   "repository": {
